@@ -1,0 +1,23 @@
+{
+  "name": "au-postcode",
+  "version": "1.0.0",
+  "description": "Search Australian postcodes and get states",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-core/register --require babel-polyfill --recursive"
+  },
+  "keywords": [
+    "Australian",
+    "postcodes"
+  ],
+  "author": "Sean Amarasinghe",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-plugin-add-module-exports": "^1.0.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
