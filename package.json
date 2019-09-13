@@ -7,11 +7,16 @@
     "test": "mocha --require babel-core/register --require babel-polyfill --recursive"
   },
   "keywords": [
-    "Australian",
-    "postcodes"
+    "Australia",
+    "postcode",
+    "state"
   ],
-  "author": "Sean Amarasinghe",
+  "author": "Sean Amarasinghe <szaranger@yahoo.com>",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szaranger/au-postcode.git"
+  },
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-plugin-add-module-exports": "^1.0.2",
