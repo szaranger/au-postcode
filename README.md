@@ -1,6 +1,6 @@
 # AU Postcode
 
-Get the corresponding Australian state by a postcode
+Get the corresponding Australian state by postcode
 
 ## How to use
 
