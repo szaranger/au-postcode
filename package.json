@@ -1,6 +1,6 @@
 {
   "name": "au-postcode",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Search Australian postcodes and get states",
   "main": "index.js",
   "scripts": {

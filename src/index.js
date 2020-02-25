@@ -1,5 +1,5 @@
 export function getStateByPostcode(postcode) {
-  const firstDigit = postcode[0];
+  const firstDigit = (postcode && postcode[0]) || "NaN";
   const code = Number(postcode);
 
   switch (firstDigit) {
